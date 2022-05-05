@@ -41,6 +41,6 @@ setColor((0,0,255))
 time.sleep(3)
 screen.render_image(im)
 time.sleep(10)
-screen.render_animation(ani)
+screen.render_animation(gif)
 time.sleep(20)
 
