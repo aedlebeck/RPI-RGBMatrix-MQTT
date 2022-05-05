@@ -55,3 +55,6 @@ https://github.com/jgarff/rpi_ws281x
 rpi_ws281x python wrapper
 https://github.com/whizzzkid/rpi-ws281x-matrix-python
 
+paho MQTT
+https://github.com/eclipse/paho.mqtt.python
+
